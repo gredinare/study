@@ -34,4 +34,4 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 ## Solution
 
-- [Solution in Scala](link)
+- [Solution in Scala](main.scala)
